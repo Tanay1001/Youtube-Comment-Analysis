@@ -1,0 +1,2 @@
+# YouTube Comment Analysis App
+Developed a Streamlit web application utilizing Python libraries such as NLTK, spaCy, and scikit-learn for sentiment analysis, language detection, and topic modeling. Integrated with the YouTube API for comment retrieval, and deployed with Streamlit for interactive exploration. Users can interact with advanced functionalities like word cloud generation, timeline analysis, and sentiment distribution visualization, offering a seamless and intuitive experience for exploring YouTube comment data.
